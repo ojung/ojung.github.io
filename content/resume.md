@@ -45,7 +45,7 @@ learning algorithms.  The system scales to above 100.000 requests per second
 with a latency of below 100ms.
 
 As data engineer I used and maintained a 1000 core petabyte-size hadoop cluster
-and another 250 core 500Tb HBase cluster. I help ingest terabytes of data per
+and another 250 core 500Tb HBase cluster. I helped ingest terabytes of data per
 day.  Apart from that I was also involved in planning, designing and
 implementing services for use in real-time-bidding systems and a data
 management platform with high requirements for low latency and high throughput.
@@ -56,7 +56,6 @@ for organizational tasks such as hiring and mentoring.
 
 
 **Core Responsibilities**
-* Plan, design, implement and maintain features and components
 * Prototype Data Management Platform utilizing a 3-dimensional data model in HBase
 * Maintain Hadoop / Hbase clusers
 * Extend core functionality of HBase with coprocessors and custom filters
@@ -71,7 +70,6 @@ for organizational tasks such as hiring and mentoring.
 ## Software Engineer / mbr Targeting GmbH
 ### Jan 2016 - Sep 2017, Berlin, Germany
 
-
 As software engineer I helped to build a distributed real-time-bidding engine
 using machine learning approaches to calculate bids for more than 30,000 events
 per second.  With a hard response time requirement of 100ms to answer each
@@ -79,7 +77,6 @@ request the system has to be highly performant and scalable.
 
 
 **Core Responsibilities**
-* Plan, design, implement and maintain features and components
 * Implement high performance bidding engine
 
 **Key Learings**
@@ -129,7 +126,6 @@ back-ends for websites of small businesses.
 **Key Learnings**
 * Php/Javascript
 * Wordpress
-</ul>
 
 # Education
 
@@ -142,11 +138,3 @@ from distributed systems to functional programming.  In my thesis "Implementing
 a Data Management Platform: Segmentation of Internet Users based on Tracking
 Data in a Wide-Column-Database" I built a prototypical Data Management
 Platform.
-
-## impress
-graf-fisch<br>
-z.h. oskar jung<br>
-lange straße 9<br>
-17489 greifswald<br>
-</body>
-</html>

@@ -25,6 +25,10 @@ publishDir = "docs"
     icon = "fab fa-github-square"
     title = "Github"
     url = "https://github.com/ojung"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "Mail"
+    url = "mailto:me@ojung.io"
 
 [permalinks]
   "/" = "/:filename"
